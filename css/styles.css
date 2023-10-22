@@ -16,7 +16,20 @@ h1{
     text-transform: uppercase;
 }
 
-img{
-    width: fit-content;
-    height: auto;
+.container{
+    width: 80%;
+    margin: 0% auto;
+}
+
+section{
+    padding-top: 100px;
+    float: left;
+    width: 70%;
+}
+
+aside{
+    font-size: 28px;
+    float: right;
+    width: 30%;
+    padding-top: 100px;
 }
