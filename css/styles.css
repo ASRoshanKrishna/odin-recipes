@@ -22,6 +22,7 @@ header{
 
 section{
     padding-top: 100px;
+    padding-bottom: 50px;
     float: left;
     width: 70%;
 }
@@ -31,4 +32,21 @@ aside{
     float: right;
     width: 30%;
     padding-top: 100px;
+}
+
+footer{
+    clear: both;
+    line-height: 32px;
+}
+
+.same{
+    text-align: center;
+    font-weight: 600;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-transform: uppercase;
+}
+
+.one{
+    background-color: #fc9003;
 }
