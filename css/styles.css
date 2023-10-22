@@ -13,4 +13,10 @@ h1{
     margin-top: 0%;
     padding-top: 50px;
     padding-bottom: 50px;
+    text-transform: uppercase;
+}
+
+img{
+    width: fit-content;
+    height: auto;
 }
