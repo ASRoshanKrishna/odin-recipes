@@ -21,16 +21,14 @@ header{
 }
 
 section{
-    border: 1px solid red;
     padding: 5%;
     width: 45%;
 }
 
 aside{
-    border: 1px solid red;
     font-size: 28px;
     width: 40%;
-    padding-top: 10%;
+    padding: 10%;
 }
 
 footer{
