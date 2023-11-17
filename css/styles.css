@@ -21,17 +21,23 @@ header{
 }
 
 section{
+    margin-top: 2%;
     padding: 5%;
     width: 45%;
 }
 
 aside{
+    margin-top: 2%;
+    border: 2px solid;
     font-size: 28px;
-    width: 40%;
-    padding: 10%;
+    width: 20%;
+    padding: 9%;
 }
 
-footer{
+.foot{
+    margin: 3%;
+    padding: 2%;
+    border: 2px solid;
     clear: both;
     line-height: 32px;
 }
